@@ -1,1 +1,1 @@
-this is a rpository where i aim to log my foray into machine learning
+this is a repository where i aim to log my foray into machine learning
